@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /*border:1px solid #ff0000;  */
+}
+
+html {
+  font-size: 62.5;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #f8fafc;
+}
+
+.align {
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 3rem;
+}
+
+/* Website Code Start Here */
+
+header{
+  width: 100%;
+  height: auto;
+}
+
+
+main{
+  width: 100%;
+  height: auto;
+}
+
+
+footer{
+  width: 100%;
+  height: auto;
+}
